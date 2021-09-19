@@ -1,0 +1,457 @@
+@media only screen  and (max-width: 1500px) {
+    .conteiner {
+        padding: 0 120px;
+    }
+    .description {
+        padding-top: 35px;  
+    }
+    .text {
+        max-width:60%;
+        padding-right: 60px;
+        height: 599px;
+    }
+    .block_photo {
+        height: 800px;
+        width: 550px;
+    }
+    .diplom {
+        width: 250px;
+    }
+    .diplom:hover {
+        transform: scale(2.3);
+    }
+    .background_body {
+        height: 1900px;
+    }
+
+}
+@media only screen and (max-width: 1350px) {
+    .conteiner {
+        padding: 0 35px;
+    }
+    .description {
+        padding-top: 25px;
+        height: 800px;
+    }
+    .size {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+      .text {
+        max-width:60%;
+        padding-right: 60px;
+    }
+    .block_photo {
+        height: 670px;
+        width: 500px;
+    }
+    .diplom {
+        width: 225px;
+    }
+    .diplom:hover {
+        transform: scale(2);
+    }
+
+
+}
+@media only screen and (max-width: 1050px) {
+    .conteiner {
+        padding: 0 35px;
+    }
+    .description {
+        padding-top: 25px;
+        height: 820px;
+
+    }
+    .line {
+        width: 424px;
+    }
+    .h2 {
+        padding-top: 150px;
+    }
+    .size {
+        font-size: 21px;
+        padding-top: 20px;
+    }
+      .text {
+        max-width:60%;
+        padding-right: 60px;
+        height: 599px;
+        width: 500px;
+    }
+    .block_photo {
+        height: 690px;
+    }
+    .diplom {
+        width: 200px;
+    }
+    .diplom:hover {
+        transform: scale(2.1);
+    }
+}
+@media only screen and (max-width: 980px) {
+    .block_photo {
+        height: 630px;
+    }
+    .text {
+        max-width:60%;
+        padding-right: 60px;
+        height: 469px;
+        width: 450px;
+    }
+    .h2 {
+        padding-top: 130px;
+    }
+    .size {
+        font-size: 19px;
+        padding-top: 20px;
+    }
+}
+@media only screen and (max-width: 950px) {
+    .block_photo {
+        height: 600px;
+    }
+}
+@media only screen and (max-width: 900px) { 
+    .background_body {
+        background-image: url(https://p4.wallpaperbetter.com/wallpaper/787/905/258/simple-background-minimalism-blue-gradient-wallpaper-preview.jpg);
+        height: 3800px;
+        max-width: 900px;
+    }
+    .header {
+        padding: 0;
+    }
+    .block_photo {
+        max-width: auto;
+        padding-top: 150px;
+        height: 800px;
+        margin-top: 300px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text {
+        max-width:60%;
+        height: 469px;
+        width: auto;
+    }
+    .line {
+        width: 400px;
+    }
+    .block_photo:hover {
+        transform: scale(1.3);
+    }
+    .h1_grid {
+        padding-top: 830px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 400px;
+        padding-top: 25px;
+    }
+    .diplom:hover {
+        transform: scale(1.6);
+    }
+} 
+@media only screen  and (max-width: 768px) {
+    .size {
+        font-size:17px;
+    }
+    .block_photo {
+        padding-top: 100px;
+        height: 800px;
+        margin-top: 300px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text {
+        height: 500px;  
+    }
+    .line {
+        width: 400px;
+    }
+    .block_photo:hover {
+        transform: scale(1.3);
+    }
+    .h1_grid {
+        padding-top: 950px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 400px;
+        padding-top: 25px;
+    }
+
+}
+@media only screen  and (max-width: 700px) {
+    .size {
+        font-size:17px;
+    }
+    .block_photo {
+        padding-top: 140px;
+        height: 800px;
+        margin-top: 300px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text {
+        height: 500px;  
+    }
+    .line {
+        width: 400px;
+    }
+    .block_photo:hover {
+        transform: scale(1.2);
+    }
+    .h1_grid {
+        padding-top: 850px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 400px;
+        padding-top: 25px;
+    }
+    
+}
+@media only screen  and (max-width: 650px) {
+    .size{
+        font-size:17px;
+    }
+    .block_photo {
+        padding-top: 200px;
+        height: 870px;
+        margin-top: 300px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text {
+        height: 440px;  
+    }
+    .line {
+        width: 250px;
+    }
+    .h1_grid {
+        padding-top: 870px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 400px;
+        padding-top: 25px;
+    }
+    .conteiner {
+        padding: 0 20px;
+    }
+       
+ }
+ @media only screen  and (max-width: 600px) {
+    .block_photo {
+        padding-top: 260px;
+        height: 870px;
+        margin-top: 300px;
+        
+    }
+    .text {
+        height: 440px;  
+        padding-bottom: 570px;
+    }
+ }
+
+
+@media only screen  and (max-width: 520px) {
+    .size{
+        font-size : 16px;
+    }
+    .block_photo {
+        padding-top: 230px;
+        height: 800px;
+        margin-top: 300px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo {
+        display: none;
+    }
+    .text {
+        height: 500px; 
+        width: 5000px; 
+        padding: 0px;
+    }
+    .block_photo:hover {
+        transform: scale(1.2);
+    }
+    .h1_grid {
+        padding-top: 870px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 400px;
+        padding-top: 25px;
+    }
+     
+}
+@media only screen  and (max-width: 490px) { 
+    .size{
+        font-size : 20px;
+    }
+    body {
+        max-width: 490px
+    }
+    .block_photo {
+        padding-top: 650px;
+        height: 1200px; 
+        max-width: 410px;
+    }
+    background_body {
+        max-width: 490px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text {
+        height: 49s 0px;  
+    }
+    .line {
+        width: 260px;
+    }
+    .block_photo:hover {
+        transform: scale(1);
+    }
+    .h1_grid {
+        padding-top: 1300px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 300px;
+        padding-top: 25px;
+    }
+    .diplom:hover {
+        transform: scale(1.4);
+    }
+     
+    
+}
+@media only screen and (max-width: 437px) {
+    .size{
+        font-size : 20px;
+    }
+    .conteiner {
+        padding: 0 25px; 
+
+    }
+    .logo {
+        display: none;
+    }
+    .block_photo {
+        padding-top: 950px;
+        height: 1600px; 
+        padding-bottom: 140px;
+        width: 320px;
+    }
+    .description {
+        display: flex;
+        align-items: baseline;
+        padding-top: 25px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .text {
+        height: 390px;  
+    }
+    .line {
+        width: 250px;
+    }
+    .block_photo:hover {
+        transform: scale(1.1);
+    }
+    .h1_grid {
+        padding-top: 1300px;
+        padding-bottom: 20px;
+
+    }
+    .grid {
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+    }
+    .diplom {
+        width: 300px;
+        padding-top: 25px;
+    }
+    .diplom:hover {
+        transform: scale(1.2);
+    }
+     
+}
+
+
